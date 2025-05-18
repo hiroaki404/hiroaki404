@@ -16,6 +16,10 @@ I enjoy Kotlin, Compose, and testing.
 - [Kotlin/Androidでテスト駆動開発をはじめよう](https://speakerdeck.com/hiroaki404/androiddetesutoqu-dong-kai-fa-wohazimeyou) in "モバイルアプリ開発における良いテストコードの考え方" June 24, 2024
     - [Sample Code](https://github.com/hiroaki404/tddKotlin)
 
+### Qita
+
+- [hiro404 \- Qiita](https://qiita.com/hiro404)
+
 ### OSS, Tools
 - [RatingBar](https://github.com/hiroaki404/RatingBar)
 - [AndroidDagashiToNortion](https://github.com/hiroaki404/AndroidDagashiToNortion)
