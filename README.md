@@ -9,7 +9,7 @@ I enjoy Kotlin, Compose, and testing.
 
 ### Talk
 
-- [KoogではじめるAIエージェント開発 \- Speaker Deck](https://speakerdeck.com/hiroaki404/koogdehazimeruaiezientokai-fa) in "Kotlin Fest 2025, November 1, 2025"
+- [KoogではじめるAIエージェント開発](https://speakerdeck.com/hiroaki404/koogdehazimeruaiezientokai-fa) in "Kotlin Fest 2025, November 1, 2025"
     - [Sample Code](https://github.com/hiroaki404/trip-ai)
     - [gentrans](https://github.com/hiroaki404/gentrans)
 - [Compose Navigation実装の見通しを良くする](https://speakerdeck.com/hiroaki404/compose-navigationshi-zhuang-nojian-tong-siwoliang-kusuru) in "DroidKaigi.collect { #17@Tokyo }" March 14, 2025
