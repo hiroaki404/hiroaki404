@@ -9,6 +9,9 @@ I enjoy Kotlin, Compose, and testing.
 
 ### Talk
 
+- [KoogではじめるAIエージェント開発 \- Speaker Deck](https://speakerdeck.com/hiroaki404/koogdehazimeruaiezientokai-fa) in "Kotlin Fest 2025, November 1, 2025"
+    - [Sample Code](https://github.com/hiroaki404/trip-ai)
+    - [gentrans](https://github.com/hiroaki404/gentrans)
 - [Compose Navigation実装の見通しを良くする](https://speakerdeck.com/hiroaki404/compose-navigationshi-zhuang-nojian-tong-siwoliang-kusuru) in "DroidKaigi.collect { #17@Tokyo }" March 14, 2025
     - [Sample Code](https://github.com/hiroaki404/ComposeNavigationSample)
 - [Compose UIテストを使った統合テスト](https://speakerdeck.com/hiroaki404/compose-uitesutowoshi-tutatong-he-tesuto) in "Android Android Test Night #10" December 12, 2024
@@ -23,7 +26,7 @@ I enjoy Kotlin, Compose, and testing.
 ### OSS, Tools
 - [gentrans](https://github.com/hiroaki404/gentrans)
 - [RatingBar](https://github.com/hiroaki404/RatingBar)
-- [AndroidDagashiToNortion](https://github.com/hiroaki404/AndroidDagashiToNortion)
+- [AndroidDagashiToNotion](https://github.com/hiroaki404/AndroidDagashiToNotion)
 
 <!--
 **hiroaki404/hiroaki404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
