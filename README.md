@@ -9,6 +9,8 @@ I enjoy Kotlin, Compose, and testing.
 
 ### Talk
 
+- [AppFunctionsの内部実装を紐解く](https://speakerdeck.com/hiroaki404/kfest2026-appfunctions) in "Kotlin Fest 2026, November 14, 2026"
+    - [Sample Code](https://github.com/hiroaki404/appfunctions-koog-agent-demo)
 - [KoogではじめるAIエージェント開発](https://speakerdeck.com/hiroaki404/koogdehazimeruaiezientokai-fa) in "Kotlin Fest 2025, November 1, 2025"
     - [Sample Code](https://github.com/hiroaki404/trip-ai)
     - [gentrans](https://github.com/hiroaki404/gentrans)
